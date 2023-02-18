@@ -1,0 +1,3 @@
+cake: <a href="https://www.flaticon.com/free-icons/cake" title="cake icons">Cake icons created by Freepik - Flaticon</a>
+cupcake: <a href="https://www.flaticon.com/free-icons/cake" title="cake icons">Cake icons created by Good Ware - Flaticon</a>
+teddy: <a href="https://www.flaticon.com/free-stickers/welcome" title="welcome stickers">Welcome stickers created by MrHamster - Flaticon</a>
